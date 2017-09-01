@@ -1,4 +1,4 @@
-PICAXE BASIC routines for controling LCD 1602 display with HD44780 driver.
+PICAXE BASIC routines for controlling LCD 1602 display with HD44780 driver.
 ----
 
 Tested with PICAXE 20M2
