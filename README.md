@@ -1,7 +1,7 @@
 PICAXE BASIC routines for controlling LCD 1602 display with HD44780 driver.
 ----
 
-Tested with PICAXE 20M2
+Tested only with PICAXE 20M2
 
 ### Routines for user
 - lcd_4bm_init
@@ -20,6 +20,6 @@ Tested with PICAXE 20M2
 - lcd_lsb_to_Dx_pins 
 - lcd_Msb_to_Dx_pins
 
-Connection
+Circuit diagram
 ----
-TODO !
+![circuit_diagram](circuit_diagram.png)
